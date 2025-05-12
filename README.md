@@ -10,7 +10,7 @@ Remove Tasks: Allows you to remove a task from the database.
 Logs: The program maintains a detailed log of all actions performed, such as task additions, removals, and updates.
 
 Technologies Used
-Python 3.x
+Python 3.13
 SQLite (Database)
 Logging (To track actions performed in the program)
 
