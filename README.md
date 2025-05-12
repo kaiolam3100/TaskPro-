@@ -17,5 +17,4 @@ Logging (To track actions performed in the program)
 Example Log
 When a task is added or removed, the program logs the details in the log file as shown below:
 
-2025-05-12 17:22:39,410 - INFO - Task added: Study Python
-2025-05-12 17:25:10,620 - WARNING - Removed task 2 - Buy bread: Go to the bakery
+2025-05-12 17:22:39,410 - INFO - Task added: Buy Milk
